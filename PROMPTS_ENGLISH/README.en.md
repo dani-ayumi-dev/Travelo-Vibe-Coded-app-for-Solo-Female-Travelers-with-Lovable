@@ -1,10 +1,10 @@
 # Travelo: Vibe Coded App for Solo Female Travelers with Lovable
 
-[🇧🇷 Português](README.md) | README_EN.md
+[🇧🇷 Português](../README.md)
 
 ---
 
-assets/hero-mockup.jpg
+![assets/hero-mockup.jpg](../assets/hero-mockup.jpg)
 
 ## About the Project
 
